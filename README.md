@@ -1,6 +1,6 @@
 # 💫 About Me:
 ☺️ Binary exploitation enjoyer :) <br>
-🖥️ Currently working as fuzzing-engineer <br>
+🖥️ Currently working as 0-day researcher <br>
 🏆 CTF-player, team is [The power of Elijah](https://ctftime.org/team/368793) <br>
 ⚙️ Creating a traffic-analyzer for Attack/Defense format...
 
